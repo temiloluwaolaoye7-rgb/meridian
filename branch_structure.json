@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1133-bug-sdk-share-conversions-do-not-match-the",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1133-bug-sdk-share-conversions-do-not-match-the": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1133-bug-sdk-share-conversions-do-not-match-the",
+    "origin"
+  ]
+}
